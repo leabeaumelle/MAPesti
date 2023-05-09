@@ -1,0 +1,9 @@
+READ ME
+
+This repository contains the data and R code to reproduce the results presented in the paper 'Pesticide effects on soil fauna communities - a meta-analysis' Beaumelle et al. (2023) Journal of Applied Ecology.
+
+Folder 'Data' contains the raw data, and folder 'Output' the processed data and model results.
+
+Folder 'Source' holds the R scripts that calculate effect sizes (script 03_), describe the data (script 04_), run the models (script 05_) and make figures (script 06_).
+
+

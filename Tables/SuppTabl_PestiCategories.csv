@@ -1,0 +1,68 @@
+"","PesticideType","PollutionNameCorrected","no.stu","no.obs"
+"1","BroadSpectrum","1,3 - dichloropropene",1,3
+"2","BroadSpectrum","chloropicrin",3,19
+"3","BroadSpectrum","metham sodium",2,2
+"4","BroadSpectrum","pentachlorophenol",1,8
+"5","BroadSpectrum","sodium pentachlorophenate",1,5
+"6","Fungicide","benomyl",2,4
+"7","Fungicide","carbendazim",3,23
+"8","Fungicide","chlorothalonil",1,2
+"9","Fungicide","Cu",1,9
+"10","Fungicide","ethylene-bis-dithiocarbamate",1,2
+"11","Fungicide","propiconazole",1,2
+"12","Herbicide","2,4-D",2,2
+"13","Herbicide","atrazine",1,1
+"14","Herbicide","bromacil",1,1
+"15","Herbicide","cyhalofop-butyl",1,2
+"16","Herbicide","flazasulfuron",1,2
+"17","Herbicide","glufosinate",1,2
+"18","Herbicide","glyphosate",8,21
+"19","Herbicide","isoproturon",1,4
+"20","Herbicide","nicosulfuron",1,1
+"21","Herbicide","paraquat",1,1
+"22","Insecticide","abamectin",1,2
+"23","Insecticide","aldicarb",1,1
+"24","Insecticide","bendiocarb",1,10
+"25","Insecticide","carbaryl",2,6
+"26","Insecticide","carbofuran",1,4
+"27","Insecticide","chloranthraniliprole",1,5
+"28","Insecticide","chlorpyrifos",2,3
+"29","Insecticide","clothianidin",3,13
+"30","Insecticide","diflubenzuron",2,15
+"31","Insecticide","endosulfan",1,1
+"32","Insecticide","fenamiphos",2,7
+"33","Insecticide","fipronil",1,1
+"34","Insecticide","halofenozide",1,10
+"35","Insecticide","imidacloprid",3,12
+"36","Insecticide","lambda-cyhalothrin",1,4
+"37","Insecticide","methidathion",1,2
+"38","Insecticide","naphtalene",1,2
+"39","Insecticide","oxamyl",1,6
+"40","Insecticide","petroleum-derived mineral oil (HMO)",1,2
+"41","Insecticide","profenofos",1,2
+"42","Insecticide","pyridaben",1,2
+"43","Insecticide","tefluthrin",2,4
+"44","Insecticide","triflumuron",1,2
+"45","MultiSubstance","1,3 - dichloropropene; chloropicrin",2,7
+"46","MultiSubstance","carbaryl; endosulfan; esfenvalerate",1,1
+"47","MultiSubstance","carbaryl; endosulfan; esfenvalerate; chlorothalonil; trifluralin; paraquat",1,1
+"48","MultiSubstance","carbofuran; tolclofos-methyl; thiram",1,1
+"49","MultiSubstance","chlorothalonil; propiconazole",1,2
+"50","MultiSubstance","chlorothalonil; propiconazole; vinclozolin; imidacloprid",1,2
+"51","MultiSubstance","chlorothalonil; trifluralin; paraquat",1,1
+"52","MultiSubstance","clothianidin; atrazine; bentazone; cyanazine; octanoic acid ester of bromoxynil (3,5-dibromo-4-hydroxybenzonitrile); S-metolachlor; thifensulfuron-methyl",1,1
+"53","MultiSubstance","clothianidin; bifenthrin",1,5
+"54","MultiSubstance","Cu; epoxiconazole; dimoxystrobin",1,9
+"55","MultiSubstance","Cu; metalaxyl",1,2
+"56","MultiSubstance","epoxiconazole; dimoxystrobin",1,9
+"57","MultiSubstance","glyphosate; oxyfluorofen",1,4
+"58","MultiSubstance","glyphosate; S-metolachlor; lambda-cyhalothrin; esfenvalerate",1,1
+"59","MultiSubstance","imidacloprid; thiram",1,1
+"60","MultiSubstance","MCPA; MCPP; dicamba",1,2
+"61","MultiSubstance","metamitron; desmedipham; ethofumesate; phenmedipham; chloridazon; quinmerac; dimethenamid--p; triflusulfuron-methyl; clopyralid",1,2
+"62","MultiSubstance","paraquat; glyphosate",1,2
+"63","MultiSubstance","pendimethalin; linuron; endosulfan",1,2
+"64","MultiSubstance","propamocarb; glyphosate; pendimethalin; chlorpropham; prosulfocarb; metalaxyl-m; ethylene-bis-dithiocarbamate",1,1
+"65","MultiSubstance","propyzamid; glyphosate",1,1
+"66","MultiSubstance","terbumeton; terbuthylazine",1,1
+"67","MultiSubstance","thiamethoxam; fludioxonil; mefenoxam; azoxystrobin; thiabendazole; sedaxane",1,4

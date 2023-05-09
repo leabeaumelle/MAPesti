@@ -1,0 +1,43 @@
+"","BodySizeCat","TaxaGroupGSBA","TaxaGroup","no.stu","no.obs"
+"1","Macrofauna","Earthworms","Earthworms",12,55
+"2","Macrofauna","Formicidae","ants",1,1
+"3","Macrofauna","Ground-nesting bees","wasps",1,1
+"4","Macrofauna","Macro-arthropods","Arthropods",1,1
+"5","Macrofauna","Macro-arthropods","macro-arthropods",1,2
+"6","Macrofauna","Macro-arthropods","macroarthropods",1,2
+"7","Macrofauna","Macrofauna","Macrofauna",2,4
+"8","Macrofauna","Myriapoda","centipedes",1,1
+"9","Macrofauna","Myriapoda","millipedes",1,1
+"10","Macrofauna","Spiders","spiders",1,1
+"11","Macrofauna","Termites","Termites",2,2
+"12","Macrofauna","Thysanoptera","thrips",1,1
+"13","Mesofauna","Acari","Acari",2,6
+"14","Mesofauna","Acari","Acari,Gamasida",1,2
+"15","Mesofauna","Acari","Acari,Oribatida",1,2
+"16","Mesofauna","Acari","Acarina",1,2
+"17","Mesofauna","Acari","Endeostigmata",1,2
+"18","Mesofauna","Acari","Gamasida predatory mites",1,1
+"19","Mesofauna","Acari","Mesostigmata",1,2
+"20","Mesofauna","Acari","Mesostigmatid mites",1,6
+"21","Mesofauna","Acari","Mites",1,1
+"22","Mesofauna","Acari","Oribatid",1,4
+"23","Mesofauna","Acari","Oribatid mites",4,14
+"24","Mesofauna","Acari","Oribatida",2,3
+"25","Mesofauna","Acari","Predatory mites",1,4
+"26","Mesofauna","Acari","Total mites",1,1
+"27","Mesofauna","Collembola","Collembola",9,35
+"28","Mesofauna","Collembola","Collembola (Folsomia quadrioc: dominant species)",1,1
+"29","Mesofauna","Collembola","Collembolans",1,3
+"30","Mesofauna","Collembola","springtails",2,3
+"31","Mesofauna","Enchytraeids","Enchytraeids",4,16
+"32","Mesofauna","Micro-arthropods","meso-arthropods",1,2
+"33","Mesofauna","Micro-arthropods","Micro-arthropods",4,11
+"34","Mesofauna","Micro-arthropods","Microarthropods",2,6
+"35","Mesofauna","Protura","protura",1,1
+"36","Mesofauna","Pseudoscorpions","pseudoscorpions",1,1
+"37","Microfauna","Nematodes","Nematodes",21,80
+"38","Microfauna","Tardigrades","Tardigrades",1,1
+"39","Multiple","Soil fauna","Arthropods",1,1
+"40","Multiple","Soil fauna","Arthropods (mites, collembola, isopoda, coleoptera, dermaptera, diptera, hemiptera, hymenoptera, lepidoptera, thysanoptera)",1,5
+"41","Multiple","Soil fauna","mesofauna, macrofauna",1,4
+"42",NA,"Oligochaetes","microbivorous oligochaetes",1,2
